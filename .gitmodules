@@ -20,5 +20,5 @@
 
 [submodule "src/modules/Eluna"]
 	path = src/modules/Eluna
-	url  = https://gitee.com/zhangluwei/ElunaLuaEngine/Eluna
+	url  = https://gitee.com/zhangluwei/Eluna
 
