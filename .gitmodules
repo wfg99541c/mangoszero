@@ -8,7 +8,7 @@
 
 [submodule "src/modules/SD3"]
 	path = src/modules/SD3
-	url  = https://github.com/mangos/ScriptDev3.git
+	url  = https://gitee.com/zhangluwei/ScriptDev3
 
 [submodule "src/tools/Extractor_projects"]
 	path = src/tools/Extractor_projects
