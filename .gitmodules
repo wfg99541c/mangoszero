@@ -16,7 +16,7 @@
 
 [submodule "win"]
 	path = win
-	url  = https://github.com/mangostools/EasyBuild
+	url  = https://gitee.com/zhangluwei/EasyBuild
 
 [submodule "src/modules/Eluna"]
 	path = src/modules/Eluna
