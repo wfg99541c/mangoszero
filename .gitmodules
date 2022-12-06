@@ -4,7 +4,7 @@
 
 [submodule "src/realmd"]
 	path = src/realmd
-	url  = https://github.com/mangos/realmd
+	url  = https://gitee.com/zhangluwei/realmd
 
 [submodule "src/modules/SD3"]
 	path = src/modules/SD3
